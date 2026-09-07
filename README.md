@@ -1,4 +1,6 @@
 # Password-Vault
+![vault_setup.png](images/vault_setup.png?raw=true)
+![password_vault.png](images/password_vault.png?raw=true)
 A simple and secure password manager built with Python and CustomTkinter.
 
 ## Features
